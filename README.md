@@ -1,4 +1,0 @@
-RockStar
-========
-
-Rockstar Physics Game
