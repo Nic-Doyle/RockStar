@@ -4,4 +4,4 @@ Welcome to the Group, please remember to contact either Alex, or myself with que
 
 Rockstar Physics 
 
-~~Nicholas Doyle~~
+~Nicholas Doyle~
