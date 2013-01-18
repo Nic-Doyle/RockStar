@@ -2,4 +2,6 @@ RockStar
 ========
 Welcome to the Group, please remember to contact either Alex, or myself with questions, comments, or concerns.
 
-Rockstar Physics Game
+Rockstar Physics 
+
+~~Nicholas Doyle~~
